@@ -1,0 +1,2 @@
+# QC-StyleGAN
+Supplementary version
