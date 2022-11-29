@@ -1,19 +1,19 @@
 """
 This file defines the core research contribution
 """
-import os
-import matplotlib
 import math
-
-import torch
-from torch import nn
 import pickle
+
+import matplotlib
+import torch
+from configs.paths_config import model_paths
 from models.encoders import psp_encoders
 from models.stylegan2_ada import Generator
-from configs.paths_config import model_paths
+from torch import nn
 from utils.model_utils import RESNET_MAPPING
 
-matplotlib.use('Agg')
+
+matplotlib.use("Agg")
 
 
 def get_keys(d, name):
