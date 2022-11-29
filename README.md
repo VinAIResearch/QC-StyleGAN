@@ -5,6 +5,9 @@
 4. [Contacts](#Contacts)
 
 # QC-StyleGAN - Quality Controllable Image Generation and Manipulation
+<a href="#"><img src="https://img.shields.io/badge/WEBSITE-Visit%20project%20page-blue?style=for-the-badge"></a>
+<a href=""><img src="https://img.shields.io/badge/arxiv-xxxx.xxxxx-red?style=for-the-badge"></a>
+
 [Dat Viet Thanh Nguyen](https://openreview.net/profile?id=~Dat_Viet_Thanh_Nguyen1),
 [Phong Tran The](https://github.com/P0lyFish),
 [Tan M. Dinh](https://di-mi-ta.github.io/),
