@@ -27,7 +27,7 @@ Details of the model architecture and experimental results can be found in [our 
 @inproceedings{
 	thanh2022qcstylegan,
 	title={{QC}-Style{GAN} - Quality Controllable Image Generation and Manipulation},
-	author={Dat Nguyen Viet Thanh and Phong Tran The and Tan M. Dinh and Cuong Pham and Anh Tuan Tran},
+	author={Dat Viet Thanh Nguyen and Phong Tran The and Tan M. Dinh and Cuong Pham and Anh Tuan Tran},
 	booktitle={Advances in Neural Information Processing Systems},
 	editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
 	year={2022}
