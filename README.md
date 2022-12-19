@@ -25,12 +25,12 @@ The introduction of high-quality image generation models, particularly the Style
 Details of the model architecture and experimental results can be found in [our following paper](https://arxiv.org/abs/2212.00981).
 ```bibtex
 @inproceedings{
-	thanh2022qcstylegan,
-	title={{QC}-Style{GAN} - Quality Controllable Image Generation and Manipulation},
-	author={Dat Viet Thanh Nguyen and Phong Tran The and Tan M. Dinh and Cuong Pham and Anh Tuan Tran},
-	booktitle={Advances in Neural Information Processing Systems},
-	editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
-	year={2022}
+thanh2022qcstylegan,
+title={{QC}-Style{GAN} - Quality Controllable Image Generation and Manipulation},
+author={Dat Viet Thanh Nguyen and Phong Tran The and Tan M. Dinh and Cuong Pham and Anh Tuan Tran},
+booktitle={Advances in Neural Information Processing Systems},
+editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+year={2022}
 }
 ```
 **Please CITE** our paper whenever our model implementation is used to help produce published results or incorporated into other software.
